@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "title": "Death Stranding",
+      "platform": "PS5"
+    },
+    {
+      "title": "Nioh",
+      "platform": "PS4"
+    },
+
+    {
+      "title": "Rocket League",
+      "platform": "PS4"
+    },
+    {
+      "title": "Fifa 23",
+      "platform": "PS5"
+    },
+    {
+      "title": "Gta 5",
+      "platform": "PS5"
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "platform": "PC"
+    },
+
+    {
+      "title": "Red dead redemption 2",
+      "platform": "PC"
+    },
+    {
+      "title": "Zelda Breath of the wild",
+      "platform": "NINTENDOSWITCH"
+    },
+    {
+      "title": "Pokémon Legends Arceus",
+      "platform": "NINTENDOSWITCH"
+    },
+    {
+      "title": "Super Dragonball",
+      "platform": "NINTENDOSWITCH"
+    }
+  ]
+}
